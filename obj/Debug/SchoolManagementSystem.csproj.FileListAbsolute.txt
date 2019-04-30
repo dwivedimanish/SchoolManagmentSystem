@@ -1,0 +1,7 @@
+C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojAssemblyReference.cache

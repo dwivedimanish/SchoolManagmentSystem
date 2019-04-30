@@ -1,0 +1,12 @@
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at SchoolManagementSystem.Teacher.setAge() in C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\Teacher.cs:line 57
+   at SchoolManagementSystem.Teacher..ctor() in C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\Teacher.cs:line 23
+   at SchoolManagementSystem.ClassRoom.addTeachers() in C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\ClassRoom.cs:line 53
+   at SchoolManagementSystem.ClassRoom..ctor() in C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\ClassRoom.cs:line 18
+   at SchoolManagementSystem.Program.addClassRooms() in C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\Program.cs:line 79
+   at SchoolManagementSystem.Program.performOperation(String operation) in C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\Program.cs:line 47
+   at SchoolManagementSystem.Program.displayMenu() in C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\Program.cs:line 38
+   at SchoolManagementSystem.Program.Main(String[] args) in C:\Users\MANISH\Desktop\Desktop\Assignment\SchoolManagementSystem\Program.cs:line 17
